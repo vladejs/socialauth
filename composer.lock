@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "c66e9d54dbaffbd9936821c05b654ea7",
-    "content-hash": "c2e29be08e0881b16ff7c04ec9784da6",
+    "hash": "34e35845067493a05424c2798becaceb",
+    "content-hash": "2f0dac8596bf9d7dc17d382d19bab277",
     "packages": [
         {
             "name": "classpreloader/classpreloader",
@@ -2219,9 +2219,9 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/instantiator/zipball/8e884e78f9f0eb1329e445619e04456e64d8051d",
+                "url": "http://composer.prod.uci.cu/dist/doctrine/instantiator/doctrine-instantiator-8e884e78f9f0eb1329e445619e04456e64d8051d-zip-681b88.zip",
                 "reference": "8e884e78f9f0eb1329e445619e04456e64d8051d",
-                "shasum": ""
+                "shasum": "68a12f9ee57237906266b711791077d3ab5b7b7b"
             },
             "require": {
                 "php": ">=5.3,<8.0-DEV"
@@ -2273,9 +2273,9 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/fzaninotto/Faker/zipball/44f9a286a04b80c76a4e5fb7aad8bb539b920123",
+                "url": "http://composer.prod.uci.cu/dist/fzaninotto/faker/fzaninotto-faker-44f9a286a04b80c76a4e5fb7aad8bb539b920123-zip-6ed28f.zip",
                 "reference": "44f9a286a04b80c76a4e5fb7aad8bb539b920123",
-                "shasum": ""
+                "shasum": "2a65e3befbea4097e7b8a487fb9d209d6d6eea75"
             },
             "require": {
                 "php": "^5.3.3|^7.0"
@@ -2321,9 +2321,9 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hamcrest/hamcrest-php/zipball/b37020aa976fa52d3de9aa904aa2522dc518f79c",
+                "url": "http://composer.prod.uci.cu/dist/hamcrest/hamcrest-php/hamcrest-hamcrest-php-b37020aa976fa52d3de9aa904aa2522dc518f79c-zip-2bc6c0.zip",
                 "reference": "b37020aa976fa52d3de9aa904aa2522dc518f79c",
-                "shasum": ""
+                "shasum": "191f0a22021c5b78fe9feb8d737a4cb4f09bd9a2"
             },
             "require": {
                 "php": ">=5.3.2"
@@ -2366,9 +2366,9 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/padraic/mockery/zipball/65d4ca18e15cb02eeb1e5336f884e46b9b905be0",
+                "url": "http://composer.prod.uci.cu/dist/mockery/mockery/mockery-mockery-65d4ca18e15cb02eeb1e5336f884e46b9b905be0-zip-26cb58.zip",
                 "reference": "65d4ca18e15cb02eeb1e5336f884e46b9b905be0",
-                "shasum": ""
+                "shasum": "e668e4543ee4f205774f038cec4a2f9416da091a"
             },
             "require": {
                 "hamcrest/hamcrest-php": "~1.1",
@@ -2431,9 +2431,9 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/myclabs/DeepCopy/zipball/399c1f9781e222f6eb6cc238796f5200d1b7f108",
+                "url": "http://composer.prod.uci.cu/dist/myclabs/deep-copy/myclabs-deep-copy-399c1f9781e222f6eb6cc238796f5200d1b7f108-zip-7c48b9.zip",
                 "reference": "399c1f9781e222f6eb6cc238796f5200d1b7f108",
-                "shasum": ""
+                "shasum": "5abcf8026749e5f566de08ed61a398fbbee12b29"
             },
             "require": {
                 "php": ">=5.4.0"
@@ -2473,9 +2473,9 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpDocumentor/ReflectionCommon/zipball/144c307535e82c8fdcaacbcfc1d6d8eeb896687c",
+                "url": "http://composer.prod.uci.cu/dist/phpdocumentor/reflection-common/phpdocumentor-reflection-common-144c307535e82c8fdcaacbcfc1d6d8eeb896687c-zip-c3be2d.zip",
                 "reference": "144c307535e82c8fdcaacbcfc1d6d8eeb896687c",
-                "shasum": ""
+                "shasum": "6957f54bca308997a81cd9bc3f52a262342447ec"
             },
             "require": {
                 "php": ">=5.5"
@@ -2527,9 +2527,9 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpDocumentor/ReflectionDocBlock/zipball/8331b5efe816ae05461b7ca1e721c01b46bafb3e",
+                "url": "http://composer.prod.uci.cu/dist/phpdocumentor/reflection-docblock/phpdocumentor-reflection-docblock-8331b5efe816ae05461b7ca1e721c01b46bafb3e-zip-319752.zip",
                 "reference": "8331b5efe816ae05461b7ca1e721c01b46bafb3e",
-                "shasum": ""
+                "shasum": "9ee582d48283e9c21e8e7ef18c591da9a2338dbd"
             },
             "require": {
                 "php": ">=5.5",
@@ -2572,9 +2572,9 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpDocumentor/TypeResolver/zipball/e224fb2ea2fba6d3ad6fdaef91cd09a172155ccb",
+                "url": "http://composer.prod.uci.cu/dist/phpdocumentor/type-resolver/phpdocumentor-type-resolver-e224fb2ea2fba6d3ad6fdaef91cd09a172155ccb-zip-e5468a.zip",
                 "reference": "e224fb2ea2fba6d3ad6fdaef91cd09a172155ccb",
-                "shasum": ""
+                "shasum": "c2f9e504805b35b2217a254cec5caabb46147821"
             },
             "require": {
                 "php": ">=5.5",
@@ -2619,9 +2619,9 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpspec/prophecy/zipball/6c52c2722f8460122f96f86346600e1077ce22cb",
+                "url": "http://composer.prod.uci.cu/dist/phpspec/prophecy/phpspec-prophecy-6c52c2722f8460122f96f86346600e1077ce22cb-zip-573078.zip",
                 "reference": "6c52c2722f8460122f96f86346600e1077ce22cb",
-                "shasum": ""
+                "shasum": "de2e8bde38a50cf3d8ef88970fa55305a96ca166"
             },
             "require": {
                 "doctrine/instantiator": "^1.0.2",
@@ -2682,9 +2682,9 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/php-code-coverage/zipball/903fd6318d0a90b4770a009ff73e4a4e9c437929",
+                "url": "http://composer.prod.uci.cu/dist/phpunit/php-code-coverage/phpunit-php-code-coverage-903fd6318d0a90b4770a009ff73e4a4e9c437929-zip-096537.zip",
                 "reference": "903fd6318d0a90b4770a009ff73e4a4e9c437929",
-                "shasum": ""
+                "shasum": "9eaba1058b211a35719aab7ded6bdafa5398a7f9"
             },
             "require": {
                 "php": "^5.6 || ^7.0",
@@ -2745,9 +2745,9 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/php-file-iterator/zipball/3cc8f69b3028d0f96a9078e6295d86e9bf019be5",
+                "url": "http://composer.prod.uci.cu/dist/phpunit/php-file-iterator/phpunit-php-file-iterator-3cc8f69b3028d0f96a9078e6295d86e9bf019be5-zip-184bc9.zip",
                 "reference": "3cc8f69b3028d0f96a9078e6295d86e9bf019be5",
-                "shasum": ""
+                "shasum": "793c98373c12a8ac17acb46df2e4654ff621d143"
             },
             "require": {
                 "php": ">=5.3.3"
@@ -2792,9 +2792,9 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/php-text-template/zipball/31f8b717e51d9a2afca6c9f046f5d69fc27c8686",
+                "url": "http://composer.prod.uci.cu/dist/phpunit/php-text-template/phpunit-php-text-template-31f8b717e51d9a2afca6c9f046f5d69fc27c8686-zip-c6bcbd.zip",
                 "reference": "31f8b717e51d9a2afca6c9f046f5d69fc27c8686",
-                "shasum": ""
+                "shasum": "cd6ced5e75b7512c72e2e1b3bd1164d20ee3030c"
             },
             "require": {
                 "php": ">=5.3.3"
@@ -2833,9 +2833,9 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/php-timer/zipball/38e9124049cf1a164f1e4537caf19c99bf1eb260",
+                "url": "http://composer.prod.uci.cu/dist/phpunit/php-timer/phpunit-php-timer-38e9124049cf1a164f1e4537caf19c99bf1eb260-zip-cb2ac7.zip",
                 "reference": "38e9124049cf1a164f1e4537caf19c99bf1eb260",
-                "shasum": ""
+                "shasum": "245848008f2a29e7df1f3a9a5732d451b783c526"
             },
             "require": {
                 "php": ">=5.3.3"
@@ -2877,9 +2877,9 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/php-token-stream/zipball/3b402f65a4cc90abf6e1104e388b896ce209631b",
+                "url": "http://composer.prod.uci.cu/dist/phpunit/php-token-stream/phpunit-php-token-stream-3b402f65a4cc90abf6e1104e388b896ce209631b-zip-6915ed.zip",
                 "reference": "3b402f65a4cc90abf6e1104e388b896ce209631b",
-                "shasum": ""
+                "shasum": "427b0c291caf0de771a0004f4af6ae3f12773ceb"
             },
             "require": {
                 "ext-tokenizer": "*",
@@ -2918,17 +2918,17 @@
         },
         {
             "name": "phpunit/phpunit",
-            "version": "5.7.2",
+            "version": "5.6.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/phpunit.git",
-                "reference": "336aff0ac52e306c98e7455bc3e8d7b0bf777a5e"
+                "reference": "38810e97481723ef918f6e35c03cb1014a645bd5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/336aff0ac52e306c98e7455bc3e8d7b0bf777a5e",
-                "reference": "336aff0ac52e306c98e7455bc3e8d7b0bf777a5e",
-                "shasum": ""
+                "url": "http://composer.prod.uci.cu/dist/phpunit/phpunit/phpunit-phpunit-38810e97481723ef918f6e35c03cb1014a645bd5-zip-438ea0.zip",
+                "reference": "38810e97481723ef918f6e35c03cb1014a645bd5",
+                "shasum": "c0a3a5c84ea3360fcb2b947bca27ba7d21dd51bc"
             },
             "require": {
                 "ext-dom": "*",
@@ -2946,7 +2946,7 @@
                 "phpunit/phpunit-mock-objects": "^3.2",
                 "sebastian/comparator": "~1.2.2",
                 "sebastian/diff": "~1.2",
-                "sebastian/environment": "^1.3.4 || ^2.0",
+                "sebastian/environment": "^1.3 || ^2.0",
                 "sebastian/exporter": "~2.0",
                 "sebastian/global-state": "~1.0",
                 "sebastian/object-enumerator": "~2.0",
@@ -2970,7 +2970,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "5.7.x-dev"
+                    "dev-master": "5.6.x-dev"
                 }
             },
             "autoload": {
@@ -2996,7 +2996,7 @@
                 "testing",
                 "xunit"
             ],
-            "time": "2016-12-03 08:33:00"
+            "time": "2016-11-28 16:04:24"
         },
         {
             "name": "phpunit/phpunit-mock-objects",
@@ -3008,9 +3008,9 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/phpunit-mock-objects/zipball/90a08f5deed5f7ac35463c161f2e8fa0e5652faf",
+                "url": "http://composer.prod.uci.cu/dist/phpunit/phpunit-mock-objects/phpunit-phpunit-mock-objects-90a08f5deed5f7ac35463c161f2e8fa0e5652faf-zip-779c8e.zip",
                 "reference": "90a08f5deed5f7ac35463c161f2e8fa0e5652faf",
-                "shasum": ""
+                "shasum": "1ff7820904262b0691e82e9db55bf7f5ec1d8e91"
             },
             "require": {
                 "doctrine/instantiator": "^1.0.2",
@@ -3067,9 +3067,9 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/code-unit-reverse-lookup/zipball/c36f5e7cfce482fde5bf8d10d41a53591e0198fe",
+                "url": "http://composer.prod.uci.cu/dist/sebastian/code-unit-reverse-lookup/sebastian-code-unit-reverse-lookup-c36f5e7cfce482fde5bf8d10d41a53591e0198fe-zip-91f3fd.zip",
                 "reference": "c36f5e7cfce482fde5bf8d10d41a53591e0198fe",
-                "shasum": ""
+                "shasum": "d323e9d61af566fe1184f3dde60bce993c079d97"
             },
             "require": {
                 "php": ">=5.6"
@@ -3112,9 +3112,9 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/comparator/zipball/6a1ed12e8b2409076ab22e3897126211ff8b1f7f",
+                "url": "http://composer.prod.uci.cu/dist/sebastian/comparator/sebastian-comparator-6a1ed12e8b2409076ab22e3897126211ff8b1f7f-zip-60a9ca.zip",
                 "reference": "6a1ed12e8b2409076ab22e3897126211ff8b1f7f",
-                "shasum": ""
+                "shasum": "3cf9119bd3ec7bb38b9d7de078157d19e247d58b"
             },
             "require": {
                 "php": ">=5.3.3",
@@ -3176,9 +3176,9 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/diff/zipball/13edfd8706462032c2f52b4b862974dd46b71c9e",
+                "url": "http://composer.prod.uci.cu/dist/sebastian/diff/sebastian-diff-13edfd8706462032c2f52b4b862974dd46b71c9e-zip-13c115.zip",
                 "reference": "13edfd8706462032c2f52b4b862974dd46b71c9e",
-                "shasum": ""
+                "shasum": "9651a7a5d8aed48a406cc8cd8bb7f0bef8c09e99"
             },
             "require": {
                 "php": ">=5.3.3"
@@ -3228,9 +3228,9 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/environment/zipball/5795ffe5dc5b02460c3e34222fee8cbe245d8fac",
+                "url": "http://composer.prod.uci.cu/dist/sebastian/environment/sebastian-environment-5795ffe5dc5b02460c3e34222fee8cbe245d8fac-zip-f320b8.zip",
                 "reference": "5795ffe5dc5b02460c3e34222fee8cbe245d8fac",
-                "shasum": ""
+                "shasum": "9406648355b13bb72c908d8699f80bec258e7f10"
             },
             "require": {
                 "php": "^5.6 || ^7.0"
@@ -3278,9 +3278,9 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/exporter/zipball/ce474bdd1a34744d7ac5d6aad3a46d48d9bac4c4",
+                "url": "http://composer.prod.uci.cu/dist/sebastian/exporter/sebastian-exporter-ce474bdd1a34744d7ac5d6aad3a46d48d9bac4c4-zip-72608d.zip",
                 "reference": "ce474bdd1a34744d7ac5d6aad3a46d48d9bac4c4",
-                "shasum": ""
+                "shasum": "f13c1c24579505df6976b82d78c44554b3a40682"
             },
             "require": {
                 "php": ">=5.3.3",
@@ -3345,9 +3345,9 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/global-state/zipball/bc37d50fea7d017d3d340f230811c9f1d7280af4",
+                "url": "http://composer.prod.uci.cu/dist/sebastian/global-state/sebastian-global-state-bc37d50fea7d017d3d340f230811c9f1d7280af4-zip-c4abec.zip",
                 "reference": "bc37d50fea7d017d3d340f230811c9f1d7280af4",
-                "shasum": ""
+                "shasum": "2cb5a4ea2731fe4318288e66a915e3facabe9fbb"
             },
             "require": {
                 "php": ">=5.3.3"
@@ -3396,9 +3396,9 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/object-enumerator/zipball/96f8a3f257b69e8128ad74d3a7fd464bcbaa3b35",
+                "url": "http://composer.prod.uci.cu/dist/sebastian/object-enumerator/sebastian-object-enumerator-96f8a3f257b69e8128ad74d3a7fd464bcbaa3b35-zip-43f40f.zip",
                 "reference": "96f8a3f257b69e8128ad74d3a7fd464bcbaa3b35",
-                "shasum": ""
+                "shasum": "160de2d6d6078f3444e61d9f4005fe5a4efbe014"
             },
             "require": {
                 "php": ">=5.6",
@@ -3442,9 +3442,9 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/recursion-context/zipball/2c3ba150cbec723aa057506e73a8d33bdb286c9a",
+                "url": "http://composer.prod.uci.cu/dist/sebastian/recursion-context/sebastian-recursion-context-2c3ba150cbec723aa057506e73a8d33bdb286c9a-zip-567089.zip",
                 "reference": "2c3ba150cbec723aa057506e73a8d33bdb286c9a",
-                "shasum": ""
+                "shasum": "386849bd4f89294ca56e987f70c90a8fc9993486"
             },
             "require": {
                 "php": ">=5.3.3"
@@ -3495,9 +3495,9 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/resource-operations/zipball/ce990bb21759f94aeafd30209e8cfcdfa8bc3f52",
+                "url": "http://composer.prod.uci.cu/dist/sebastian/resource-operations/sebastian-resource-operations-ce990bb21759f94aeafd30209e8cfcdfa8bc3f52-zip-4a3a08.zip",
                 "reference": "ce990bb21759f94aeafd30209e8cfcdfa8bc3f52",
-                "shasum": ""
+                "shasum": "66218b0539409ec8b1a613bf58d2ea83706d10b9"
             },
             "require": {
                 "php": ">=5.6.0"
@@ -3537,9 +3537,9 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/version/zipball/99732be0ddb3361e16ad77b68ba41efc8e979019",
+                "url": "http://composer.prod.uci.cu/dist/sebastian/version/sebastian-version-99732be0ddb3361e16ad77b68ba41efc8e979019-zip-0eee83.zip",
                 "reference": "99732be0ddb3361e16ad77b68ba41efc8e979019",
-                "shasum": ""
+                "shasum": "b45ac41f617c6a2a45215e592402bdd7437bed38"
             },
             "require": {
                 "php": ">=5.6"
@@ -3580,9 +3580,9 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/css-selector/zipball/a37b3359566415a91cba55a2d95820b3fa1a9658",
+                "url": "http://composer.prod.uci.cu/dist/symfony/css-selector/symfony-css-selector-a37b3359566415a91cba55a2d95820b3fa1a9658-zip-368364.zip",
                 "reference": "a37b3359566415a91cba55a2d95820b3fa1a9658",
-                "shasum": ""
+                "shasum": "f3b3bb9665e8744f9fbda79ba04122dfba204e75"
             },
             "require": {
                 "php": ">=5.5.9"
@@ -3633,9 +3633,9 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/dom-crawler/zipball/1eb3b4d216e8db117218dd2bb7d23dfe67bdf518",
+                "url": "http://composer.prod.uci.cu/dist/symfony/dom-crawler/symfony-dom-crawler-1eb3b4d216e8db117218dd2bb7d23dfe67bdf518-zip-ff28c5.zip",
                 "reference": "1eb3b4d216e8db117218dd2bb7d23dfe67bdf518",
-                "shasum": ""
+                "shasum": "8e5af11930697a9ded9db36dee68093df24beb2f"
             },
             "require": {
                 "php": ">=5.5.9",
@@ -3689,9 +3689,9 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/yaml/zipball/f2300ba8fbb002c028710b92e1906e7457410693",
+                "url": "http://composer.prod.uci.cu/dist/symfony/yaml/symfony-yaml-f2300ba8fbb002c028710b92e1906e7457410693-zip-5d35f8.zip",
                 "reference": "f2300ba8fbb002c028710b92e1906e7457410693",
-                "shasum": ""
+                "shasum": "470c827e156f13b470311961d3f26ae9ef561ef4"
             },
             "require": {
                 "php": ">=5.5.9"
@@ -3744,9 +3744,9 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/webmozart/assert/zipball/2db61e59ff05fe5126d152bd0655c9ea113e550f",
+                "url": "http://composer.prod.uci.cu/dist/webmozart/assert/webmozart-assert-2db61e59ff05fe5126d152bd0655c9ea113e550f-zip-36e9ad.zip",
                 "reference": "2db61e59ff05fe5126d152bd0655c9ea113e550f",
-                "shasum": ""
+                "shasum": "c9974e5ae84c973c16a58039e0ff74ac8332cb5b"
             },
             "require": {
                 "php": "^5.3.3 || ^7.0"

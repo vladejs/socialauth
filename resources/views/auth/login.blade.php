@@ -103,12 +103,12 @@
                             </p>
 
                             <div class="col-md-12">
-                                <button
-                                        type="button"
-                                        class="btn btn-primary btn-block"
+                                <a
+                                    href="redirect"
+                                    class="btn btn-primary btn-block"
                                 >
                                     Facebook
-                                </button>
+                                </a>
                             </div>
                         </div>
 
